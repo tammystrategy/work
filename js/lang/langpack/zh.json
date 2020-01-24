@@ -1,0 +1,12 @@
+{
+	"token": {
+		"Who I am":"關於我",
+    // example
+    // "origin english text": "the text you want to show after translate"
+	},
+	"regex": [
+		["Budget", "งบประมาณ"],
+		["^Something at start of text", ""],
+		["This will be case insensitive", "i", ""]
+	]
+}
